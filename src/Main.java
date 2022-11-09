@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world! HEEEJDÅ, ta denna jnya bvaersionen, heheh");
+        System.out.println("Hello world! Ändring i Branch");
     }
 }
